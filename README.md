@@ -111,5 +111,5 @@
 <h2>🤝 Contato</h2>
 
 <p>
-  Feito com 💙 por Juliano Oliveira. Entre em contato pelo <a href="https://github.com/julidos">GitHub</a>!
+  Feito com 💙 por Juliano Oliveira. Entre em contato pelo <a href="https://github.com/JulianoCLI">GitHub</a>!
 </p>
